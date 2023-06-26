@@ -4,8 +4,8 @@
 <p>Hey There! I am David Crair.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am currently pursuing my Bachelor's in Computer Science at Yale University.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I am proficient in Python, C/C++ and Java.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p> You can visit my other profiles here: <a href="https://www.linkedin.com/in/davidcrair/">LinkedIn</a>.</p>
+<p> You can visit my other profiles here: <br><a href="https://www.linkedin.com/in/davidcrair/">LinkedIn</a>.</p>
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">davidcrair@gmail.com</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="Your email ID">davidcrair@gmail.com</a>.
 
 <p>Cheers!</p>
